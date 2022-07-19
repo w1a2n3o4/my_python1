@@ -1,4 +1,4 @@
-cars =["Volvo", "Renault", "Audi", "Skoda", "Hyndai"]
+cars =["Volvo", "Renault", "Audi", "Skoda", "Hyndai","Mersedes-Benz"]
 
 for i in cars:
     print(i.upper())
